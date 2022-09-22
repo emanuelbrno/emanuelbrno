@@ -4,7 +4,7 @@
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando HTML5, CSS3, JS
 
-<div align="center">
+<div align="right">
   <a href="https://github.com/emanuelbrno">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanuelbrno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelbrno&layout=compact&langs_count=7&theme=dark"/>

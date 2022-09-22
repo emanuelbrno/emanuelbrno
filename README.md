@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como subgerente em uma rede de farmácia
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando HTML5, CSS3, JS
+- 🌱 Estudando HTML5, CSS3, JS, PYTHON3
 
 <div align="center">
   <a href="https://github.com/emanuelbrno">
